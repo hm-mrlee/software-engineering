@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Art of Data
+title: Software Engineering
 ---
 # Class Info
   - Email: [lester_lee@horacemann.org](mailto:lester_lee@horacemann.org)
