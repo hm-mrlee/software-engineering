@@ -33,9 +33,9 @@ This schedule will be accurate up until the end of the current subunit. Anything
      3. REST
      3. Using Existing APIs
      3. Writing New APIs
-     3. Frontend/Backend Integration
 
 ## Unit 4: Implementation
+  4. Frontend/Backend Integration
   4. Logging and Monitoring
   4. Handling Failure
      4. Bug Tracking
