@@ -7,12 +7,12 @@ This schedule will be accurate up until the end of the current subunit. Anything
 
 ## Unit 1: Teamwork
   1. Establishing Team Commitments and Norms
-     1. Team Contracts
      1. Code of Ethics
+     1. Team Contracts
      1. Holding Effective Meetings
      1. Brainstorming
   1. Collaborative Programming
-     1. Using Git Effectively
+     1. Git Basics
      1. Reading and Writing Documentation
      1. Process Models
      1. Project Management Tools
@@ -35,6 +35,7 @@ This schedule will be accurate up until the end of the current subunit. Anything
      3. Writing New APIs
 
 ## Unit 4: Implementation
+  4. More Git
   4. Frontend/Backend Integration
   4. Logging and Monitoring
   4. Handling Failure
