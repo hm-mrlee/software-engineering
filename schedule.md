@@ -15,13 +15,12 @@ This schedule will be accurate up until the end of the current subunit. Anything
      1. Git Basics
      1. Reading and Writing Documentation
      1. Process Models
-     1. Project Management Tools
 
 ## Unit 2: User Centered Design
   2. Gathering Information
-  2. Storyboarding and Use Cases
-  2. Establishing Requirements
+  2. Personas and Storyboarding
   2. UI/UX Design
+  2. Establishing Requirements
 
 ## Unit 3: Software Architecture
   3. Software Abstraction
