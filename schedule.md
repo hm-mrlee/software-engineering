@@ -11,10 +11,7 @@ This schedule will be accurate up until the end of the current subunit. Anything
      1. Team Contracts
      1. Holding Effective Meetings
      1. Brainstorming
-  1. Collaborative Programming
-     1. Git Basics
-     1. Reading and Writing Documentation
-     1. Process Models
+  1. Process Models
 
 ## Unit 2: User Centered Design
   2. Gathering Information
@@ -34,7 +31,8 @@ This schedule will be accurate up until the end of the current subunit. Anything
      3. Writing New APIs
 
 ## Unit 4: Implementation
-  4. More Git
+  4. Git
+  4. Reading and Writing Documentation
   4. Frontend/Backend Integration
   4. Logging and Monitoring
   4. Handling Failure
