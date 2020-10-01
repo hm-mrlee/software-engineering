@@ -7,11 +7,10 @@ This schedule will be accurate up until the end of the current subunit. Anything
 
 ## Unit 1: Teamwork
   1. Establishing Team Commitments and Norms
-     1. Code of Ethics
-     1. Team Contracts
-     1. Holding Effective Meetings
-     1. Brainstorming
-  1. Process Models
+  1. Code of Ethics
+  1. Team Contracts
+  1. Holding Effective Meetings
+  1. Brainstorming
 
 ## Unit 2: User Centered Design
   2. Gathering Information
