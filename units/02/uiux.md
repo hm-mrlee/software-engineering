@@ -1,0 +1,28 @@
+---
+---
+  - color theory
+  - color accessibility
+  - https://www.csc2.ncsu.edu/faculty/healey/PP/index.html
+  - textures
+  - grid
+  - gestalt
+  - balance / unity
+  - examples: material design
+  - responsive design
+  - touch / interaction points for user i.e. buttons
+  - typography
+  - communicating info in multiple ways (text, color, texture)
+  - mvc model
+  - signifiers & affordances
+  - https://www.uxbooth.com/articles/designing-for-mobile-part-1-information-architecture/
+  - https://uxplanet.org/information-architecture-basics-for-designers-b5d43df62e20
+  - user / task flows
+  - navigation design
+  - paper prototypes
+  - prototyping / user testing
+
+  students should be able to:
+  - create wireflows for specific features of their game
+  - think about how best to visually display their feature
+  - design how users interact with their feature
+  - have a plan for what to code and how their feature interacts with other features
