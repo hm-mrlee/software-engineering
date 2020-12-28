@@ -27,7 +27,7 @@ This schedule will be accurate up until the end of the current subunit. Anything
 ## Unit 4: Software Architecture
   4. Software Specifications
   4. Software Architecture
-     4. TODO
+     4. Examples
   4. Documenting Architecture
      4. UML Diagrams
 
@@ -50,5 +50,5 @@ This schedule will be accurate up until the end of the current subunit. Anything
   6. Failure Handling
     6. Bug Tracking
 
-## Unit 5: Presentation
-  5. Communicating with Clients
+## Unit 7: Presentation
+  7. Communicating with Clients
