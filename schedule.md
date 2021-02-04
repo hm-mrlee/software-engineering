@@ -24,31 +24,25 @@ This schedule will be accurate up until the end of the current subunit. Anything
   3. Version Control and Git
   3. Task Tracking
 
-## Unit 4: Software Architecture
-  4. Software Specifications
+## Unit 4: Software Design
   4. Software Architecture
-     4. Examples
-  4. Documenting Architecture
-     4. UML Diagrams
+     4. Documenting Architecture
+  4. Design Pattern Examples
+  4. Object Oriented Programming Guidelines
+  4. APIs
+     4. Using Existing APIs
+     4. Writing New APIs
 
-## Unit 5: Software Design Patterns
-  5. Object Oriented Programming Guidelines
-     5. UML Class Diagrams
-  5. Design Pattern Examples
-  5. APIs
-     5. Using Existing APIs
-     5. Writing New APIs
+## Unit 5: Implementation
+  5. Testing
+     5. Unit Testing
+     5. System Testing
+  5. Debugging
+     5. Static vs Dynamic Analysis
+  5. Readng and Writing Documentation
+  5. Logging and Monitoring
+  5. Failure Handling
+    5. Bug Tracking
 
-## Unit 6: Implementation
-  6. Testing
-     6. Unit Testing
-     6. System Testing
-  6. Debugging
-     6. Static vs Dynamic Analysis
-  6. Readng and Writing Documentation
-  6. Logging and Monitoring
-  6. Failure Handling
-    6. Bug Tracking
-
-## Unit 7: Presentation
-  7. Communicating with Clients
+## Unit 6: Presentation
+  6. Communicating with Clients
